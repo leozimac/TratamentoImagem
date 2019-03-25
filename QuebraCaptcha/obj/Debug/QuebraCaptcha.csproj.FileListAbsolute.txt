@@ -1,0 +1,17 @@
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\bin\Debug\QuebraCaptcha.exe.config
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\bin\Debug\QuebraCaptcha.exe
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\bin\Debug\QuebraCaptcha.pdb
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\bin\Debug\AForge.dll
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\bin\Debug\AForge.xml
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\obj\Debug\QuebraCaptcha.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\obj\Debug\QuebraCaptcha.Form1.resources
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\obj\Debug\QuebraCaptcha.Properties.Resources.resources
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\obj\Debug\QuebraCaptcha.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\obj\Debug\QuebraCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\obj\Debug\QuebraCaptcha.csproj.CopyComplete
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\obj\Debug\QuebraCaptcha.exe
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\obj\Debug\QuebraCaptcha.pdb
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\bin\Debug\AForge.Imaging.dll
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\bin\Debug\AForge.Math.dll
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\bin\Debug\AForge.Imaging.xml
+C:\Users\Pichau\source\repos\QuebraCaptcha\QuebraCaptcha\bin\Debug\AForge.Math.xml
